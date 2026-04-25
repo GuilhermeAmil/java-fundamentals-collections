@@ -39,4 +39,4 @@ Abaixo, uma breve descrição do que foi explorado em cada arquivo:
 1. Certifique-se de ter o JDK instalado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/GuilhermeAmil/java-fundamentals-collections
+   https://github.com/GuilhermeAmil/java-fundamentals-collections
